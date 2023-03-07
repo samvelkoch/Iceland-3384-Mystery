@@ -39,3 +39,13 @@ Create a report to answer the principal's questions. Include:
 - What are the 5 countries with the most internet users?
 - What is the correlation between internet usage (population share) and broadband subscriptions for 2019?
 - Summarize your findings.
+
+### Author
+
+**Samvel Kocharyan**
+
+samvelkoch@gmail.com 
+
+https://www.linkedin.com/in/samvelkoch/
+
+2022
